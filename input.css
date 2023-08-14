@@ -45,6 +45,10 @@ body{
     @apply flex gap-6;
 }
 
+.post-type p{
+    @apply text-[#475467] text-base font-medium leading-6;
+}
+
 .post-location, .post-time{
     @apply flex gap-2;
 }
